@@ -10,7 +10,7 @@ I plan to be a Data engineer or Data Analyst. I can write some programming langu
 Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Information Science.
+- 🌱 I’m currently learning Data Science.
 - 📫 How to reach me: carolyn961208[at]gmail.com (Please change [at] to @)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
