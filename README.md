@@ -2,7 +2,7 @@
 
 I'm a graduate student at USC.
 
-I plan to be a Data engineer or Data Analyst. I can write some programming languages like Java, HTML, JavaScript and Python, and I participated in various practical projects during my last work and the school.
+I plan to be a Data engineer or Data Analyst. I can write some programming languages like Java, HTML, JavaScript and Python, and I participated in various practical projects during my previous work and in school.
 
 
 <!-- **carolyntw/carolyntw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
