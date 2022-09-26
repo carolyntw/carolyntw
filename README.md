@@ -13,8 +13,8 @@ My skills include:
 Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Data Science.
-- 📫 How to reach me: carolyn961208[at]gmail.com (Please change [at] to @)
+ 🌱 I’m currently participating more data science related projects and courses.
+ 📫 How to reach me: carolyn961208[at]gmail.com (Please change [at] to @)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
