@@ -1,9 +1,12 @@
-### Hi there 👋 I'm Carolyn Chan !
+### Hi there 👋 I'm Carolyn Chan!
 
-I'm a graduate student at USC.
+A graduate student from the University of Southern California with practical data project experience, looking for summer 2023 internship opportunities.
+I have 1+ years of experience in Data Analytics and Software development. I wish to pursue a career in Data Science/Business Intelligence and make a positive difference in the intersection of business and technology.
 
-I plan to be a Data engineer or Data Analyst. I can write some programming languages like Java, HTML, JavaScript and Python, and I participated in various practical projects during my previous work and in school.
-
+My skills include:
+· Programming Languages: Python, Java, R
+· Database Technologies: Google Cloud Firestore, Amazon DynamoDB, Oracle Database, MySQL, MongoDB
+· Cloud & Big Data Technologies: Apache Spark, Apache Hadoop
 
 <!-- **carolyntw/carolyntw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
