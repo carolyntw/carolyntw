@@ -4,9 +4,9 @@ A graduate student from the University of Southern California with practical dat
 I have 1+ years of experience in Data Analytics and Software development. I wish to pursue a career in Data Science/Business Intelligence and make a positive difference in the intersection of business and technology.
 
 My skills include:
-· Programming Languages: Python, Java, R
-· Database Technologies: Google Cloud Firestore, Amazon DynamoDB, Oracle Database, MySQL, MongoDB
-· Cloud & Big Data Technologies: Apache Spark, Apache Hadoop
+- Programming Languages: Python, Java, R
+- Database Technologies: Google Cloud Firestore, Amazon DynamoDB, Oracle Database, MySQL, MongoDB
+- Cloud & Big Data Technologies: Apache Spark, Apache Hadoop
 
 <!-- **carolyntw/carolyntw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
