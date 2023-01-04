@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Carolyn Chan!
 
-A graduate student from the University of Southern California with practical data project experience, looking for summer 2023 internship opportunities.
-I have 1+ years of experience in Data Analytics and Software development. I wish to pursue a career in Data Science/Business Intelligence and make a positive difference in the intersection of business and technology.
+A graduate student from the University of Southern California with practical data project experience, seeking Data Science summer 2023 internship opportunities.
 
 My skills include:
 - Programming Languages: Python, Java, R
