@@ -3,7 +3,7 @@
 A graduate student from the University of Southern California with practical data project experience, seeking Data Science summer 2023 internship opportunities.
 
 My skills include:
-- Programming Languages: Python, Java, R
+- Programming Languages: Python, Java, R, HTML, Javascript
 - Database Technologies: Google Cloud Firestore, Amazon DynamoDB, Oracle Database, MySQL, MongoDB
 - Cloud & Big Data Technologies: Apache Spark, Apache Hadoop
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 <!-- - 🔭 I’m currently working on ... -->
  🌱 I’m currently participating more data science related projects and courses.
  <!-- -  Ask me about ... -->
- 📫 How to reach me: carolyn961208[at]gmail.com (Please change [at] to @)
+ 📫 How to reach me: chankaiy[at]usc.com (Please change [at] to @)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
