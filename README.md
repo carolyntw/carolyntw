@@ -6,10 +6,10 @@ I’m a proactive and diligent graduate student from the University of Southern 
 I am completing my Master of Science in Applied Data Science at USC, where I’ve undertaken courses like Machine Learning for Data Science, Foundations and Applications of Data Mining, and Database Systems. Each course has significantly enriched my knowledge and practical skills in data science.
 
 ### 🛠️ **Technical Toolkit**
-- **Programming Languages:** Well-versed in Python, Java, R, HTML, and Javascript, with notable projects utilizing NumPy, Pandas, Scikit-learn, TensorFlow, and R Shiny.
-- **Database Technologies:** Experienced with SQL (MySQL, SQL Server, PostgreSQL, TimescaleDB) and NoSQL databases (MongoDB, Firestore) including work with Google Cloud Firestore, Amazon DynamoDB, Oracle Database.
-- **Cloud & Big Data:** Proficient in cloud platforms and big data technologies like GCP, AWS, Databricks, Spark, and Hadoop.
-- **Data Visualization:** Skilled in creating intuitive visualizations using Bokeh, Plotly, Streamlit, Dash, and Tableau.
+- **Programming Languages:** Python, Java, R, HTML, and Javascript
+- **Database Technologies:** SQL (MySQL, SQL Server, PostgreSQL, TimescaleDB), NoSQL (MongoDB, Firestore)
+- **Cloud & Big Data:** GCP, AWS, Databricks, Spark, Hadoop
+- **Data Visualization:** Bokeh, Plotly, Streamlit, Dash, Tableau
 
 ### 📈 **Projects**
 - **[Sales & Customer Insights Dashboard](https://github.com/carolyntw/Sales-Customer-Insights-Dashboard):** Developed an AWS-powered data pipeline integrated with an interactive Tableau dashboard for enhanced e-commerce data analysis.
