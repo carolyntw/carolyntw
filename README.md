@@ -14,7 +14,6 @@ I am completing my Master of Science in Applied Data Science at USC, where I’v
 ### 📈 **Projects**
 - **Sales & Customer Insights Dashboard:** Developed an AWS-powered data pipeline integrated with an interactive Tableau dashboard for enhanced e-commerce data analysis.
 - **GreenTrace:** Created a Dash-based web application showcasing CO2 emissions and individual carbon footprints, backed by thorough environmental data analysis.
-- **Recommendation System:** Engineered a Python and PySpark-based hybrid recommendation system, showcasing advanced algorithm implementation.
 - **College Return on Investment:** Designed a Streamlit-powered web application for college financial analysis, backed by a Firestore database architecture.
 
 ### 📬 **Let's Connect!**
