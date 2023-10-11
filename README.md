@@ -12,9 +12,9 @@ I am completing my Master of Science in Applied Data Science at USC, where I’v
 - **Data Visualization:** Skilled in creating intuitive visualizations using Bokeh, Plotly, Streamlit, Dash, and Tableau.
 
 ### 📈 **Projects**
-- **Sales & Customer Insights Dashboard:** Developed an AWS-powered data pipeline integrated with an interactive Tableau dashboard for enhanced e-commerce data analysis.
-- **GreenTrace:** Created a Dash-based web application showcasing CO2 emissions and individual carbon footprints, backed by thorough environmental data analysis.
-- **College Return on Investment:** Designed a Streamlit-powered web application for college financial analysis, backed by a Firestore database architecture.
+- **[Sales & Customer Insights Dashboard](https://github.com/carolyntw/Sales-Customer-Insights-Dashboard):** Developed an AWS-powered data pipeline integrated with an interactive Tableau dashboard for enhanced e-commerce data analysis.
+- **[GreenTrace](https://github.com/carolyntw/athenahacks-2023):** Created a Dash-based web application showcasing CO2 emissions and individual carbon footprints, backed by thorough environmental data analysis.
+- **[College Return on Investment](https://github.com/carolyntw/College-Return-on-Investment):** Designed a Streamlit-powered web application for college financial analysis, backed by a Firestore database architecture.
 
 ### 📬 **Let's Connect!**
 Feel free to reach out if you’re interested in collaborating or just chatting about the exciting world of data! I'm always open to new opportunities and connections. 
