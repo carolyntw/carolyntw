@@ -8,10 +8,11 @@ I am completing my Master of Science in Applied Data Science at USC, where I’v
 ### 🛠️ **Technical Toolkit**
 - **Programming Languages:** Python, Java, R, HTML, and Javascript
 - **Database Technologies:** SQL (MySQL, SQL Server, PostgreSQL, TimescaleDB), NoSQL (MongoDB, Firestore)
-- **Cloud & Big Data:** GCP, AWS, Databricks, Spark, Hadoop
+- **Cloud & Big Data:** GCP, AWS, Databricks, Spark, Hadoop, Apache Airflow
 - **Data Visualization:** Bokeh, Plotly, Streamlit, Dash, Tableau
 
 ### 📈 **Projects**
+- **[YouTube Video Trends Dashboard](https://github.com/carolyntw/YouTube-video-trends-analytics):** Built an automated ETL pipeline for YouTube analytics using Apache Airflow, hosted on AWS EC2, with data visualization in Tableau.
 - **[Sales & Customer Insights Dashboard](https://github.com/carolyntw/Sales-Customer-Insights-Dashboard):** Developed an AWS-powered data pipeline integrated with an interactive Tableau dashboard for enhanced e-commerce data analysis.
 - **[GreenTrace](https://github.com/carolyntw/athenahacks-2023):** Created a Dash-based web application showcasing CO2 emissions and individual carbon footprints, backed by thorough environmental data analysis.
 - **[College Return on Investment](https://github.com/carolyntw/College-Return-on-Investment):** Designed a Streamlit-powered web application for college financial analysis, backed by a Firestore database architecture.
