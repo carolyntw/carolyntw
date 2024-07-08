@@ -1,9 +1,6 @@
-### Hello, World! 👋 I'm Kaiyin Chan!
+### Hello, World! 👋 I'm Carolyn (Kaiyin) Chan!
 
-I’m a proactive and diligent graduate student from the University of Southern California, well-equipped with a rich blend of education, skills, and work experience in data analysis, engineering, and analytics. I'm eager to contribute my expertise to a dynamic team and am currently open to Analytics Engineer, Data Analyst, and Data Engineer full-time roles.
-
-### 🔍 **Current Focus**
-I am completing my Master of Science in Applied Data Science at USC, where I’ve undertaken courses like Machine Learning for Data Science, Foundations and Applications of Data Mining, and Database Systems. Each course has significantly enriched my knowledge and practical skills in data science.
+I’m a graduate student from the University of Southern California, well-equipped with a rich blend of education, skills, and work experience in data analysis, engineering, and analytics. I'm eager to contribute my expertise to a dynamic team and am currently open to Analytics Engineer, Data Analyst, and Data Engineer full-time roles.
 
 ### 🛠️ **Technical Toolkit**
 - **Programming Languages:** Python, Java, R, HTML, and Javascript
@@ -24,7 +21,8 @@ I am immensely passionate about the intersection of data, technology, and human 
 
 
 <!-- **carolyntw/carolyntw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+🔍 **Current Focus**
+I am completing my Master of Science in Applied Data Science at USC, where I’ve undertaken courses like Machine Learning for Data Science, Foundations and Applications of Data Mining, and Database Systems. Each course has significantly enriched my knowledge and practical skills in data science.
 Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on ... -->
